@@ -3,8 +3,10 @@
 
 Этот проект — Telegram-бот на **Python**, который собирает, фильтрует и визуализирует IT-вакансии с сайта [rabota.by](https://rabota.by).  
 Цель — быстрый анализ рынка труда в сфере IT в Республике Беларусь.  
-Документация Google диск: https://docs.google.com/document/d/1NkHSEcCJd_q35cPJVbyoSprp46pwudCs/edit?usp=sharing&ouid=113335923884980325046&rtpof=true&sd=true
-Презентация Google диск: https://drive.google.com/file/d/1mNzu0zFqxHBuqIiey5X0lunzs5snT_bB/view?usp=sharing
+
+[Документация](https://docs.google.com/document/d/1NkHSEcCJd_q35cPJVbyoSprp46pwudCs/edit?usp=sharing&ouid=113335923884980325046&rtpof=true&sd=true) Google диск
+
+[Презентация](https://drive.google.com/file/d/1mNzu0zFqxHBuqIiey5X0lunzs5snT_bB/view?usp=sharing) Google диск
 
 ---
 
